@@ -1,1 +1,1 @@
-# semanatec_ai
+# perros-gatos-ia
